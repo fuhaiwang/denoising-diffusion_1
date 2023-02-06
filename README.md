@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-### 代码 配合 https://www.bilibili.com/video/BV1B8411G7sV/?spm_id_from=333.880.my_history.page.click&vd_source=51691b631453e47a30142495ad9f03be 看，很好理解
+##### 代码 配合 https://www.bilibili.com/video/BV1B8411G7sV/?spm_id_from=333.880.my_history.page.click&vd_source=51691b631453e47a30142495ad9f03be 看，很好理解
 
 See [annotated_diffusion.ipynb](./annotated_diffusion.ipynb) for a walkthrough about the forward diffusion process.
 
